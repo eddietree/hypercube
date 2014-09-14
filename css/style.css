@@ -95,6 +95,11 @@
 	{
 		margin-bottom: 2em;
 	}
+
+	article p a
+	{
+		color: rgb(197, 161, 68);
+	}
 		
 	/* Table */
 	
